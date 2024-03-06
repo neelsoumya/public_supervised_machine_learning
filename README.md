@@ -8,6 +8,10 @@ https://github.com/neelsoumya/public_supervised_machine_learning/blob/main/talk_
 
 https://github.com/neelsoumya/public_supervised_machine_learning/blob/main/talk_supervised_ML_SoumyaBanerjee.pptx
 
+Additional notes
+
+https://github.com/neelsoumya/public_supervised_machine_learning/blob/main/additional_notes.pdf
+
 ## Talk (recorded)
 
 https://youtu.be/TCw5xIH3JWY
